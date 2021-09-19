@@ -6,5 +6,7 @@ Hello, I am japanese high school student. I have been working on JavaScript for 
 ## My favorite Languages
 : the languages I want to master ..
 > C++
+
 > JavaScript
+
 > CSS (Sass)
