@@ -9,4 +9,6 @@ Hello, I am japanese high school student. I have been working on JavaScript for 
 
 > JavaScript
 
+> Python
+
 > CSS (Sass)
