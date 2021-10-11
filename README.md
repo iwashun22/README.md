@@ -14,5 +14,7 @@ Hello, I am japanese high school student. I have been working on JavaScript for 
 > CSS (Sass)
 
 <div>
+ <a href="https://github.com/iwashun22/iwashun22">
  <img src="https://komarev.com/ghpvc/?username=iwashun22"/>
+ </a>
 </div>
