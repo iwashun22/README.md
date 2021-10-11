@@ -14,4 +14,4 @@ Hello, I am japanese high school student. I have been working on JavaScript for 
 > CSS (Sass)
 
 
-![GitHub Stats Card]("https://komarev.com/ghpvc/?username=iwashun22")
+![]("https://komarev.com/ghpvc/?username=iwashun22")
