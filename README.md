@@ -14,8 +14,4 @@ Hello, I am japanese high school student. I have been working on JavaScript for 
 > CSS (Sass)
 
 
-<p align="left">
-    <a href="https://github.com/iwashun22/iwashun22/">
-    <img src="https://komarev.com/ghpvc/?username=iwashun22"/>
-  </a>
-</p>
+![image]("https://komarev.com/ghpvc/?username=iwashun22")
