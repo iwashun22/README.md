@@ -13,6 +13,8 @@ Hello, I am japanese high school student. I have been working on JavaScript for 
 
 > CSS (Sass)
 
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVXB1PEDGFNE5QUkYJaySJcgnXiP9hZdZZfgiI1arB1GrzxswvRO2sNUfVg478oFoSQVs&usqp=CAU">
+
 <div>
  <a href="https://github.com/iwashun22/iwashun22">
  <img src="https://komarev.com/ghpvc/?username=iwashun22"/>
