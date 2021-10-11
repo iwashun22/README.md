@@ -15,7 +15,7 @@ Hello, I am japanese high school student. I have been working on JavaScript for 
 
 
 <p align="left">
-    <a href="https://github.com/miyazaki-games/miyazaki-games/">
-    <img src="https://komarev.com/ghpvc/?username=miyazaki-games" alt="miyazaki-games" />
+    <a href="https://github.com/iwashun22/iwashun22/">
+    <img src="https://komarev.com/ghpvc/?username=iwashun22"/>
   </a>
 </p>
