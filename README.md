@@ -18,6 +18,8 @@ Hello, I am japanese high school student. I have been working on JavaScript for 
  
  <img width="40px" heigth="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVXB1PEDGFNE5QUkYJaySJcgnXiP9hZdZZfgiI1arB1GrzxswvRO2sNUfVg478oFoSQVs&usqp=CAU">
  
+ <img width="40px" height="40px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"/>
+ 
  <img width="40px" height="40px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/288_Sass-512.png"/> 
 <div/>
  
