@@ -13,7 +13,9 @@ Hello, I am japanese high school student. I have been working on JavaScript for 
 
 > CSS (Sass)
 
-<img width="70px" heigth="70px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVXB1PEDGFNE5QUkYJaySJcgnXiP9hZdZZfgiI1arB1GrzxswvRO2sNUfVg478oFoSQVs&usqp=CAU">
+<img width="40px" heigth="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVXB1PEDGFNE5QUkYJaySJcgnXiP9hZdZZfgiI1arB1GrzxswvRO2sNUfVg478oFoSQVs&usqp=CAU">
+
+<img width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png"/>
 
 <div>
  <a href="https://github.com/iwashun22/iwashun22">
