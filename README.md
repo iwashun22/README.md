@@ -19,7 +19,7 @@ Hello, I am japanese high school student. I have been working on JavaScript for 
 <img width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png"/>
 <div/>
 
-<div>
+<div margin-top="30px">
  <a href="https://github.com/iwashun22/iwashun22">
  <img src="https://komarev.com/ghpvc/?username=iwashun22"/>
  </a>
