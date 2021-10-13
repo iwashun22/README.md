@@ -23,10 +23,3 @@ Hello, I am japanese high school student. I have been working on JavaScript for 
  <img width="40px" height="40px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/288_Sass-512.png"/> 
 <div/>
  
- <br/>
-
-<div style="margin: 30px">
- <a href="https://github.com/iwashun22/iwashun22">
- <img src="https://komarev.com/ghpvc/?username=iwashun22"/>
- </a>
-</div>
