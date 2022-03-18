@@ -4,7 +4,6 @@ Hello, I am japanese high school student. I have been working on JavaScript for 
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api/top-langs/?username=iwashun22&count_private=true&theme=dark)
 
 ## My favorite Languages
-: the languages I want to master...
 
 > JavaScript
 
