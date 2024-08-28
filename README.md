@@ -1,4 +1,4 @@
-Hello, I am a Japanese and mostly a self-taught programmer. I am working with JavaScript and Typescript for the most time.
+Hello, I am a Japanese and almost a self-taught programmer. I've worked with JavaScript and Typescript for the most time.
 
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=iwashun22&show_icons=true&theme=dark&count_private=true)
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api/top-langs/?username=iwashun22&count_private=true&theme=dark)
